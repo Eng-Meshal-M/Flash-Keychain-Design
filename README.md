@@ -10,10 +10,23 @@ This project showcases the design of a **Flash-inspired keychain** created using
 
 The design was recreated by estimating the dimensions of a reference image, adding a **4 mm** keyring hole, extruding the model to a thickness of **2 mm**, and exporting it as an **STL** file.
 
+---
+
+## 🎨 Design Versions
+
+During the design process, two versions of the keychain were created.
+
+- **Classic Design:** Features the complete design with the inner circular insert placed behind the lightning bolt.
+- **Open Design:** Created by hiding **Sketch 2**, removing the inner circular insert and producing an open-style design while keeping the same outer frame and lightning bolt.
+
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e6d93aaf-9120-4c67-95c8-0be0d995acb9"
-width="65%">
+ <img src="https://github.com/user-attachments/assets/733a42b0-49a7-45bb-bb62-3ad11585335a"  width="50%">
+  &nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/c56cfeb3-586d-4483-9f03-72272f86812e" 
+ width="44%">
 </p>
+
+Both versions were successfully modeled using the same workflow in Onshape and can be exported as STL files for 3D printing.
 
 ---
 
@@ -22,7 +35,8 @@ width="65%">
 ```text
 Flash-Keychain-Design/
 │
-├── Flash-Keychain.stl
+├── Flash-Keychain-Classic Design.stl
+├── Flash-Keychain-Open Design.stl
 └── README.md
 ```
 ---
